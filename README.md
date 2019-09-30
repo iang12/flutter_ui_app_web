@@ -1,6 +1,6 @@
 # flutter_app_01
 ScreenShot do App
-![Alt Text](https://github.com/iang12/flutter_ui_app_web/flutter_ui_01.png)
+![Alt Text](https://github.com/iang12/flutter_ui_app_web/blob/master/flutter_ui_01.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
